@@ -1,5 +1,8 @@
 # UXDM Doctrine
 
+[![Build Status](https://travis-ci.com/DivineOmega/uxdm-doctrine.svg?branch=master)](https://travis-ci.com/DivineOmega/uxdm-doctrine)
+[![Coverage Status](https://coveralls.io/repos/github/DivineOmega/uxdm-doctrine/badge.svg?branch=master)](https://coveralls.io/github/DivineOmega/uxdm-doctrine?branch=master)
+
 The UXDM Doctrine package provides a UXDM destination for the
 Doctrine ORM, commonly used in Symfony projects.
 
