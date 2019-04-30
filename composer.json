@@ -14,7 +14,7 @@
         "php-coveralls/php-coveralls": "^2.0"
     },
     "require": {
-        "divineomega/uxdm": "v3.0.0",
+        "divineomega/uxdm": "^3.0.0",
         "doctrine/orm": "^2.5",
         "symfony/property-access": "^3.4"
     },
